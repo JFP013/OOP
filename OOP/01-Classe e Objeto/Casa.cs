@@ -23,7 +23,7 @@ namespace OOP.Classe_e_Objeto
         public Objeto()
         {
             //Objeto
-            //Instancia a Classe criando o objeto(New Casa)
+            //Instancia a Classe criando o Objeto(New Casa)
             Casa casa = new Casa
             {
                 TamanhoM2 = 100,
